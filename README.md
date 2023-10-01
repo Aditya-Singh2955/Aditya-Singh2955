@@ -1,5 +1,9 @@
-### Hi there 👋
+Hi Everyone
 
+I am an Ex-Intern @AppZoTech
+Ready to contribute in Open source.
+
+[![An image of @adityasingh2955's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityasingh2955)](https://holopin.io/@adityasingh2955)
 <!--
 **Aditya-Singh2955/Aditya-Singh2955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
