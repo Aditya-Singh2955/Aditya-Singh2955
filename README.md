@@ -1,6 +1,6 @@
 Hi Everyone
 
-I am an Ex-Intern @AppZoTech
+I am an Ex-Intern @Sedulous Softtech || Ex-Intern @AppZoTech
 Ready to contribute in Open source.
 
 [![An image of @adityasingh2955's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityasingh2955)](https://holopin.io/@adityasingh2955)
